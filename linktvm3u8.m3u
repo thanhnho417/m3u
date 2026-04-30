@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://vnepg.site/epg.xml"
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=210&time=${start}&offset=${duration}, VTV1
 #EXTVLCOPT:http-user-agent=cvmedia/1.0.0
-https://rr1-ateme.tv360.vn/live/eds/154/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzE1NC9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc3NzQwNDI3OX0.2sAywUUo-uulCDZrAHPacNhsWEJY8F7gZdk4WXK-WPs7Vk2VYL4GO0r9oXrnz3Yx3eRGmBkhFAy6U-Pj2IuWUQ&screen=MHL&uid=107887546
+http://live.vtvdigital.vn/hls/78a744684de002a14d5f63422fdd67c2/1562944723050/live/_definst_/vtv1-high.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/Cim-egsLkqw/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=377&time=${start}&offset=${duration}, VTV2
 https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/4jr8Y13NSME/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=211&time=${start}&offset=${duration}, VTV3
